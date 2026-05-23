@@ -1,0 +1,4 @@
+task single_task {
+    print "This is a single task with no dependencies (Boundary Case).";
+    exec "echo single_task_success";
+}

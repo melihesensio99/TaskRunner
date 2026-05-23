@@ -1,0 +1,4 @@
+task build {
+    print "Building..."
+    exec "echo build_done"
+}

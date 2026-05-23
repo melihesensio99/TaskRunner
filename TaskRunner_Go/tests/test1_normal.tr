@@ -1,0 +1,19 @@
+task compile {
+    print "Compiling source code...";
+    exec "echo compile_success";
+}
+
+task test depends compile {
+    print "Running unit tests...";
+    exec "echo tests_passed";
+}
+
+task lint {
+    print "Linting source files...";
+    exec "echo lint_passed";
+}
+
+task deploy depends test, lint {
+    print "Deploying application...";
+    exec "echo deploy_success";
+}
