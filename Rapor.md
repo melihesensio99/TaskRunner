@@ -1,4 +1,4 @@
-# TaskRunner Mini Programlama Dili Raporu
+﻿# TaskRunner Mini Programlama Dili Raporu
 
 Bu rapor, masaüstünüzde oluşturulan `taskrunner` projesi (Go ile yazılmış mini bir task runner dili ve yorumlayıcısı) hakkında detayları içerir. Sisteminizde şu an Go kurulu olmadığı için kodlar derlenip çalıştırılamasa da, kaynak kodlar (`main.go`) ve örnek program (`example.tr`) masaüstünüzdeki `taskrunner` klasöründe hazır durumdadır.
 

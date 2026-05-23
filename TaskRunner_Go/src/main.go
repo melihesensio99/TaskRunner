@@ -1,10 +1,5 @@
-/*
+﻿/*
 =================================================
-* Ders: Programlama Dilleri Prensipleri
-* Öğrenci: Melih Esen
-* Numara: 2210656013
-* Ödev No: 112
-* Tarih: 23.05.2026
 *
 * Açıklama: Bu ödevde bağımlılıkları çözerek 
 * task'ları paralel çalıştıran küçük bir dil 

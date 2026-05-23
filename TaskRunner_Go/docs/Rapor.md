@@ -1,9 +1,5 @@
-# TaskRunner Mini Programlama Dili Raporu
+﻿# TaskRunner Mini Programlama Dili Raporu
 
-**Ders:** Programlama Dilleri Prensipleri
-**Öğrenci:** Melih Esen
-**Numara:** 2210656013
-**Ödev No:** 112
 
 Bu ödevde, yazdığımız senaryolara göre taskleri sırasıyla (ya da paralel olarak) çalıştıracak ufak bir programlama dili ve onun yorumlayıcısını (interpreter) geliştirdim. Dili yazarken Go'yu tercih ettim çünkü Go'nun goroutine'leri sayesinde bu tarz asenkron işlemleri yönetmek nispeten daha az karmaşık oluyordu.
 
